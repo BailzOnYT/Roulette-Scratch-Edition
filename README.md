@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
   <body>
-    <h1>Roulette-Scratch-Edition</h1>
+    <h1>Roulette: Scratch Edition</h1>
     <p>A small game based on chance, made on Scratch and PenguinMod</p>
     <br>
     <br>
