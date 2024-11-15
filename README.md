@@ -2,12 +2,10 @@
 <html>
   <body>
     <h1>Roulette-Scratch-Edition</h1>
-    <br>
     <p>A small game based on chance, made on Scratch and PenguinMod</p>
     <br>
     <br>
     <h2>Public Versions</h2>
-    <br>
     <a href="https://scratch.mit.edu/projects/1055917631"><span>Roulette: Scratch Edition (BETA v1.1) [ARCHIVE]</span></a>
     <br>
     <a href="https://scratch.mit.edu/projects/1049047642"><span>Roulette: Scratch Edition (BETA v2.6) [ARCHIVE]</span></a>
@@ -18,7 +16,6 @@
     <br>
     <br>
     <h2>Experiments</h2>
-    <br>
     <a href="https://scratch.mit.edu/projects/1049324045"><span>Cloud Ping Experiment</span></a>
     <br>
     <a href="https://scratch.mit.edu/projects/1069751780"><span>Cloud Ping Experiment (Automatic Disconnect Engine)</span></a>
@@ -29,7 +26,6 @@
     <br>
     <br>
     <h2>Videos of Development</h2>
-    <br>
     <p>PLEASE NOTE: Not all versions were recorded.</p>
     <br>
     <a href="https://www.youtube.com/live/LAk17Pbxc0g?si=7CT8X6LmljlDa0co"><span>Coding Roulette: Scratch Edition (BETA v1.0)</span></a>
